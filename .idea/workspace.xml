@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16f2c05d-8054-48f0-9733-41d1bad0f205" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iC1gn9YThrHZUI5oSeHWE02VIy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.encapsulation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NoEncapsulation">
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.enums.Demo" />
+      <module name="AutoManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.abstractdemo.Demo" />
+      <module name="AutoManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.abstractdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.enums.GenderTest" />
+      <module name="AutoManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.wrappers.Main" />
+      <module name="AutoManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.wrappers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoEncapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.encapsulation.NoEncapsulation" />
+      <module name="AutoManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Demo (2)" />
+      <item itemvalue="Application.GenderTest" />
+      <item itemvalue="Application.Demo (3)" />
+      <item itemvalue="Application.NoEncapsulation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NoEncapsulation" />
+        <item itemvalue="Application.Demo (3)" />
+        <item itemvalue="Application.GenderTest" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16f2c05d-8054-48f0-9733-41d1bad0f205" name="Default Changelist" comment="" />
+      <created>1601396873841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601396873841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2394" y="0" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1602524748106">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2394" y="0" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602524748106" />
+    <state x="2512" y="0" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601915764450" />
+    <state x="2218" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.inPresentationMode" timestamp="1602520194092">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2218" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602520194092" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1602569448814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1536" height="249" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1602524701197">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1920" height="345" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602174480689" />
+    <state width="1536" height="249" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602524701197" />
+    <state width="1920" height="446" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601920262212" />
+    <state width="1920" height="326" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1602231710837" />
+    <state width="1536" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602526558628" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602569448814" />
+    <state width="1877" height="382" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601627849895" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601448459030" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1602569448814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1536" height="249" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1602524701197">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1920" height="345" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602174480689" />
+    <state width="1536" height="249" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602524701197" />
+    <state width="1920" height="446" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601920262212" />
+    <state width="1920" height="326" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1602231710837" />
+    <state width="1536" height="249" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602526558627" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602569448814" />
+    <state width="1877" height="382" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601627849894" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601448459029" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1602569448813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1536" height="249" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1602524701197">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1920" height="345" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602174480689" />
+    <state width="1536" height="249" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602524701197" />
+    <state width="1920" height="446" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601920262211" />
+    <state width="1920" height="326" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1602231710837" />
+    <state width="1536" height="249" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602526558627" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602569448813" />
+    <state width="1877" height="382" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601627849894" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601448459029" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1602569448814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1536" height="249" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1602524701197">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1920" height="345" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602174480689" />
+    <state width="1536" height="249" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602524701197" />
+    <state width="1920" height="446" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601920262212" />
+    <state width="1920" height="326" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1602231710837" />
+    <state width="1536" height="249" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602526558627" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602569448814" />
+    <state width="1877" height="382" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601627849895" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601448459030" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603108860822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602515681032" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601560792755" />
+    <state x="2581" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601915708521" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603108860822" />
+    <state x="2208" y="239" key="run.anything.popup.inPresentationMode" timestamp="1601567512644">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2208" y="239" key="run.anything.popup.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601567512644" />
+    <state x="2427" y="188" width="672" height="538" key="search.everywhere.popup" timestamp="1602515706680">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2112" y="0" width="1344" height="820" key="search.everywhere.popup.inPresentationMode" timestamp="1602526558618">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2112" y="0" width="1344" height="820" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602526558618" />
+    <state x="288" y="0" width="1344" height="1036" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601921721149" />
+    <state x="2208" y="0" width="1344" height="1036" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601915899312" />
+    <state x="288" y="0" width="1344" height="1036" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1601448452761" />
+    <state x="634" y="237" width="840" height="680" key="search.everywhere.popup/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602515696094" />
+    <state x="2427" y="188" width="672" height="538" key="search.everywhere.popup/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1602515706680" />
+    <state x="2554" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601915725886" />
+  </component>
+</project>
